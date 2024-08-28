@@ -1,9 +1,27 @@
 /* style.css */
 
 .navbar {
-    height: 60px;
-    width: 60px;
+    height: auto;
+    width: 100%;
+    background-color: red;
 }
+
+.coy-name {
+    background-color: darkred;
+    position: relative;
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+    font-family: fantasy;
+    font-size: 18pt;
+    width: 50%;
+    height: 40px;
+    font-style: oblique;
+    border-radius: 1ch;
+    margin-top: -82%;
+    margin-left: 25%;
+    
+  }
 
 .menu-burger > * {
     position: absolute;
